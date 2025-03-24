@@ -1,0 +1,5 @@
+NPC:Bienvenido viajero.
+
+NPC:Dicen que hay un tesoro escondido más allá de las montañas.
+
+NPC:Dime, ¿te atreves a buscarlo? 
